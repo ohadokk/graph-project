@@ -1,0 +1,2 @@
+﻿  main.cpp
+c:\users\ohad\documents\visual studio 2015\projects\graph_project\graph_project\main.cpp(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
